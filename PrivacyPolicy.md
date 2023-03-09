@@ -12,7 +12,7 @@ Data is stored in a Postgreql database. The database is secured to prevent exter
 
 ## User Rights
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through The Farm Discord server (https://discord.gg/zQHyJKrA7K). You have the right to request the removal of your data at any point.
+At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through [The Farm](https://discord.gg/zQHyJKrA7K). You have the right to request the removal of your data at any point.
 
 ## Underage Users
 
