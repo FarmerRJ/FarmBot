@@ -10,6 +10,10 @@ Access to Data is only permitted to Bot's developers, and only in the scope requ
 
 Data is stored in a Postgreql database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
 
+## Message Content
+
+The only instance that FarmBot will look at a users message content, is if a user is using the Global Chat channels. FarmBot does not store this content, but forwards it to all servers that have opted into this service. If you chose to not have your message content looked at by FarmBot, then you can avoid using these channels.
+
 ## User Rights
 
 At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through [The Farm](https://discord.gg/zQHyJKrA7K). You have the right to request the removal of your data at any point.
